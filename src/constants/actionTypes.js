@@ -1,0 +1,3 @@
+export const GET_RECITERS = "GET_RECITERS";
+export const GET_SURAH = "GET_SURAH";
+export const SET_CURRENT_SOURCE = "SET_CURRENT_SOURCE";
